@@ -9,7 +9,7 @@ Additionally, extended the above model to facilitate the meeting of soft constra
 
 ## Implementatation
 
-variables = V\_i\_j (this refers to nurse no. i on day j)
+variables = `V_i_j` (this refers to nurse no. i on day j)
 value domain = {M,E,A,R}  ( morning shift, evening shift, afternoon shift and rest respectively).
 
 Used recursive backtracking in this assignment to find out the correct assignment of values to the variables.
